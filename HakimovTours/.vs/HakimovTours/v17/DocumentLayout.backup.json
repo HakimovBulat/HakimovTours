@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2EEFE-3872-444D-B3B5-8E5F7DF54A0B}|HakimovTours\\HakimovTours.csproj|c:\\users\\79273\\source\\repos\\hakimovtours\\hakimovtours\\hakimovtours\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F2EEFE-3872-444D-B3B5-8E5F7DF54A0B}|HakimovTours\\HakimovTours.csproj|solutionrelative:hakimovtours\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2EEFE-3872-444D-B3B5-8E5F7DF54A0B}|HakimovTours\\HakimovTours.csproj|c:\\users\\79273\\source\\repos\\hakimovtours\\hakimovtours\\hakimovtours\\hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F2EEFE-3872-444D-B3B5-8E5F7DF54A0B}|HakimovTours\\HakimovTours.csproj|solutionrelative:hakimovtours\\hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2EEFE-3872-444D-B3B5-8E5F7DF54A0B}|HakimovTours\\HakimovTours.csproj|c:\\users\\79273\\source\\repos\\hakimovtours\\hakimovtours\\hakimovtours\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F2EEFE-3872-444D-B3B5-8E5F7DF54A0B}|HakimovTours\\HakimovTours.csproj|solutionrelative:hakimovtours\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2EEFE-3872-444D-B3B5-8E5F7DF54A0B}|HakimovTours\\HakimovTours.csproj|c:\\users\\79273\\source\\repos\\hakimovtours\\hakimovtours\\hakimovtours\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F2EEFE-3872-444D-B3B5-8E5F7DF54A0B}|HakimovTours\\HakimovTours.csproj|solutionrelative:hakimovtours\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2EEFE-3872-444D-B3B5-8E5F7DF54A0B}|HakimovTours\\HakimovTours.csproj|c:\\users\\79273\\source\\repos\\hakimovtours\\hakimovtours\\hakimovtours\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F2EEFE-3872-444D-B3B5-8E5F7DF54A0B}|HakimovTours\\HakimovTours.csproj|solutionrelative:hakimovtours\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\HakimovTours\\App.xaml",
+              "RelativeDocumentMoniker": "HakimovTours\\App.xaml",
+              "ToolTip": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\HakimovTours\\App.xaml",
+              "RelativeToolTip": "HakimovTours\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T10:31:36.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\HakimovTours\\AddEditPage.xaml",
+              "RelativeDocumentMoniker": "HakimovTours\\AddEditPage.xaml",
+              "ToolTip": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\HakimovTours\\AddEditPage.xaml",
+              "RelativeToolTip": "HakimovTours\\AddEditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T10:19:49.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\HakimovTours\\HotelsPage.xaml",
+              "RelativeDocumentMoniker": "HakimovTours\\HotelsPage.xaml",
+              "ToolTip": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\HakimovTours\\HotelsPage.xaml",
+              "RelativeToolTip": "HakimovTours\\HotelsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T10:18:15.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\HakimovTours\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HakimovTours\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\HakimovTours\\MainWindow.xaml",
+              "RelativeToolTip": "HakimovTours\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T10:26:22.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\HakimovTours\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HakimovTours\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\79273\\source\\repos\\HakimovTours\\HakimovTours\\HakimovTours\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HakimovTours\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA7wCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:08:46.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
